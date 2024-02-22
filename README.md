@@ -1,5 +1,5 @@
 # 💫 About Me:
-Welcome to My GitHub Profile!<br>Hey there! 👋 I'm Maureen-Mae B. Sebastian, a Computer Science student at New Era University.<br><br>What You'll Find Here:<br>🚀 Projects: Explore my coding journey through various projects, from simple scripts to complex applications.<br><br>Get in Touch:<br>📧 Feel free to reach out to me via email at smaureenmae@gmail.com.
+Welcome to My GitHub Profile!<br>Hey there! 👋 I'm Maureen-Mae B. Sebastian, a 3rd Year Computer Science student at New Era University.<br><br>What You'll Find Here:<br>🚀 Projects: Explore my coding journey through various projects, from simple scripts to complex applications.<br><br>Get in Touch:<br>📧 Feel free to reach out to me via email at smaureenmae@gmail.com.
 
 
 ## 🌐 Socials:
