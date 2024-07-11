@@ -1,24 +1,28 @@
-# 💫 About Me:
-Welcome to My GitHub Profile!
+# Maureen-Mae B. Sebastian
+- maureen.sebastian@neu.edu.ph
+- +639761125607
+- Quezon City, Philippines
 
-Hey there! 👋 I'm Maureen-Mae B. Sebastian, a 3rd Year Computer Science student at New Era University.
+## Education
+New Era University, 2021-Present<br />
+Bachelor of Science in Computer Science
 
+## Certification
+- [Oracle Cloud Data Management Foundations | December 11, 2022](https://catalog-education.oracle.com/pls/certview/sharebadge?id=D9A05C3A0D8526E7EE400D9E672CDF51CEBF8E24AABC85AE66452A81BB0321B4)
+- [Oracle Cloud Infrastructure Foundations | November 22, 2022](https://catalog-education.oracle.com/pls/certview/sharebadge?id=9099C7FFD70DDF154164222B51404FA35EC7AB9A361A920B5B0CD048DCE5776A)
+- [SQL and Relational Databases 101 | November 7, 2022](https://courses.cognitiveclass.ai/certificates/96485bf0190f43189574e56fe61ea01d) 
 
-Get in Touch:
-<br>📧 Feel free to reach out to me via email at smaureenmae@gmail.com.
+## Tech Achievement
+- [Power BI Project | Snack Report Using DAX](https://app.powerbi.com/view?r=eyJrIjoiNjc4OGYyMzUtNzRkMC00ODgyLWI0YTItMjdmZWRkYzU1ZDY5IiwidCI6IjRhZGM2NzBkLTExMGEtNDU4MC1hODMxLWIyNTBjYWE4Y2EyYSIsImMiOjEwfQ%3D%3D)
+- [Power BI Project | Soda Report for Year 2022](https://app.powerbi.com/view?r=eyJrIjoiOWM2MjIxMjgtZmQ0NS00MWU3LWFhZTQtYjU2OTNiODA0YjA5IiwidCI6IjRhZGM2NzBkLTExMGEtNDU4MC1hODMxLWIyNTBjYWE4Y2EyYSIsImMiOjEwfQ%3D%3D)
+- [SOLID Principle With Design Pattern](https://github.com/NEU-MaureenMae/solidWithDesignPattern)
+- [Visitor Design Pattern](https://github.com/NEU-MaureenMae/visitorPatternLab)
+- [State Design Pattern](https://github.com/NEU-MaureenMae/statePattern)
+- [Strategy Design Pattern](https://github.com/NEU-MaureenMae/strategyPattern)
+- [Observer Design Pattern](https://github.com/NEU-MaureenMae/observerPattern)
 
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/maureensmae) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/maureen-mae-sebastian-b68532296) 
-
-## 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
-![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) 
-![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) 
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Skill Set
+- Data Visualization Tools :  PowerBI Desktop, Tableau Public
+- Programming Languages: Java, HTML, CSS
+- DBMS: DB2
+- Dev Tools: JasperSoft Studio, Lucidchart, Eclipse, IntelliJ, Visual Studio Code, Laragon, DOSBox
